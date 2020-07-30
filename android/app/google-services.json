@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66238045291",
+    "firebase_url": "https://flutterocial.firebaseio.com",
+    "project_id": "flutterocial",
+    "storage_bucket": "flutterocial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66238045291:android:37d1be9317b92a00f2e52e",
+        "android_client_info": {
+          "package_name": "com.faizhashmi.flutterocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66238045291-jgkkvj1ihog64bquhqdjqvjcaaqai81p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGku06SaaT_d2UeRkMJ36X1V717Chapo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66238045291-jgkkvj1ihog64bquhqdjqvjcaaqai81p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
